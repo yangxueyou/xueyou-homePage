@@ -1,1 +1,2 @@
 - [JavaScript](https://yangxueyou.github.io/xueyou_javascript/#/)
+- [TypeScript](https://yangxueyou.github.io/xueyou_typescript/#/)
