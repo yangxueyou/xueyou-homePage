@@ -1,2 +1,7 @@
+- 学友
+  - [套路](./src/0001.md)
+  - 规范
+    - [常量管理](./src/0002.md)
+    - [git规范](./src/0003.md)
 - [JavaScript](https://yangxueyou.github.io/xueyou_javascript/#/)
 - [TypeScript](https://yangxueyou.github.io/xueyou_typescript/#/)
