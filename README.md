@@ -1,21 +1,8 @@
 **知识的广度能告诉你什么是正确的方向，知识的深度则可以让你在该方向上快速前进。**
 
+The breadth of knowledge can tell you what is the right direction to go, and the depth of knowledge allows you to move quickly in that direction.
 
-学习前端这门手艺，我们可以从栈底往栈顶一步步循序渐进地学习。栈底到栈顶依次是：
 
-
-- 浏览器架构、
-- Web 网络、
-- 事件循环机制、
-- JavaScript 核心、
-- V8 的内存管理、
-- 浏览器的渲染流程、
-- Web 安全、
-- CSS、
-- React、
-- Vue、
-- Node、
-- 构建工具链等、
 
 
 

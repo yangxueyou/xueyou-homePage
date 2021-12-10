@@ -3,5 +3,6 @@
   - 规范
     - [常量管理](./src/0002.md)
     - [git规范](./src/0003.md)
-- [JavaScript](https://yangxueyou.github.io/xueyou_javascript/#/)
-- [TypeScript](https://yangxueyou.github.io/xueyou_typescript/#/)
+- [JavaScript](https://yangxueyou.github.io/xueyou-javascript/#/)
+- [TypeScript](https://yangxueyou.github.io/xueyou-typescript/#/)
+- [Nodejs](https://yangxueyou.github.io/xueyou-nodejs/#/)
