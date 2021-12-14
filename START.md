@@ -1,11 +1,13 @@
 # 启动
 
-```
+``` javascript
 npm i docsify-cli -g
 
 docsify init projectName
 
-docsify serve xueyou-homePage // cd ..
+cd ..   // 请在项目跟目录外层使用下面命令
+
+docsify serve xueyou-homePage
 
 ```
 
