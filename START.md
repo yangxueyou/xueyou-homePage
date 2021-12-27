@@ -18,7 +18,7 @@ https://docsify.js.org/#/?id=docsify
 
 # 首页
 
-https://yangxueyou.github.io/xueyou-blog/#/
+https://yangxueyou.github.io/xueyou-homePage/#/
 
 
 # 快速生成模版
