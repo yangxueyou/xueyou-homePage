@@ -5,4 +5,5 @@
 - [Nodejs](https://yangxueyou.github.io/xueyou-nodejs/#/)
 - [Webpack](https://yangxueyou.github.io/xueyou-webpack/#/)
 - [Git](https://yangxueyou.github.io/xueyou-git/#/)
+- [Linux](https://yangxueyou.github.io/xueyou-linux/#/)
 - [大杂烩](https://yangxueyou.github.io/xueyou-tools/#/)
