@@ -6,5 +6,6 @@
 - [Webpack](https://yangxueyou.github.io/xueyou-webpack/#/)
 - [Git](https://yangxueyou.github.io/xueyou-git/#/)
 - [Linux](https://yangxueyou.github.io/xueyou-linux/#/)
+- [Linux](https://yangxueyou.github.io/xueyou-babel/#/)
 - [大杂烩](https://yangxueyou.github.io/xueyou-tools/#/)
 - [面试题](https://yangxueyou.github.io/xueyou-interview/#/)
