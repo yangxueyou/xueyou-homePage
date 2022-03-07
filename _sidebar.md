@@ -3,7 +3,6 @@
 - [Vuejs](https://yangxueyou.github.io/xueyou-vue/#/)
 - [Reactjs](https://yangxueyou.github.io/xueyou-react/#/)
 - [Nodejs](https://yangxueyou.github.io/xueyou-nodejs/#/)
-- [Webpack](https://yangxueyou.github.io/xueyou-webpack/#/)
 - [Git](https://yangxueyou.github.io/xueyou-git/#/)
 - [Linux](https://yangxueyou.github.io/xueyou-linux/#/)
 - [babel](https://yangxueyou.github.io/xueyou-babel/#/)
