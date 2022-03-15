@@ -4,8 +4,17 @@
   "description": "> An awesome project.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "commit": "./node_modules/cz-customizable/standalone.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/config-conventional": "^13.1.0",
+    "commitizen": "^4.2.4",
+    "commitlint": "^13.1.0",
+    "conventional-changelog-cli": "^2.1.1",
+    "cz-customizable": "^6.3.0",
+    "husky": "^7.0.1"
+  }
 }
