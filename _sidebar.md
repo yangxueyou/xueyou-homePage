@@ -2,6 +2,7 @@
 - [TypeScript](https://yangxueyou.github.io/xueyou-typescript/#/)
 - [Vuejs](https://yangxueyou.github.io/xueyou-vue/#/)
 - [Reactjs](https://yangxueyou.github.io/xueyou-react/#/)
+- [Chrome](https://yangxueyou.github.io/xueyou-chrome/#/)
 - [Webpack](https://yangxueyou.github.io/xueyou-webpack/#/)
 - [Nodejs](https://yangxueyou.github.io/xueyou-nodejs/#/)
 - [Git](https://yangxueyou.github.io/xueyou-git/#/)
